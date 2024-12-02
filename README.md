@@ -1,28 +1,38 @@
 # Smart-Greenhouses
 Smart Greenhouses: (24-25J-010)
 
-Team Members![image](https://github.com/user-attachments/assets/0af9b46d-3bd6-4294-9604-0e43b6e31e3d)
+Team Members-</br>
+Supervisor - Prof. Anuradha Jayakody </br>
+Co-Supervisor - Ms. Pipuni Wijesiri </br>
+External-Supervisor - Modern Agri </br>
 
-Overall Project Description-
-The project aims Utilizes IoT technologies to automate greenhouse task
-Reduce Human labor
-Ensure healthy production
-Optimize greenhouse management
+Subhath H.R.H -  </br>
+Pallage P.D.R.S -  </br>
+Wishvajith S.A.S -  </br>
+Ilangkoon I.M.C.S.B -  </br>
 
-Overall  Research Problem-
-Real time data monitoring, controlling
-Manual Disease Identification
-Manual Irrigation control
-Indoor climate control
-Maintain optimal room conditions for plant
+
+
+Overall Project Description- </br>
+The project aims Utilizes IoT technologies to automate greenhouse task </br>
+Reduce Human labor </br> 
+Ensure healthy production </br>
+Optimize greenhouse management </br>
+</br></br>
+Overall  Research Problem- </br>
+Real time data monitoring, controlling </br>
+Manual Disease Identification </br>
+Manual Irrigation control </br>
+Indoor climate control </br>
+Maintain optimal room conditions for plant </br>
 
 Objectives-
 Develop a system for optimized internal and external operations in green house to enhance the efficiency, productivity, and sustainability of greenhouse.
 
 Sub Objectives-
-Plant disease detection and automated treatments.
-Tomato growth monitoring and analysis
-Soil health monitoring and automated fertilizing
+Plant disease detection and automated treatments,
+Tomato growth monitoring and analysis,
+Soil health monitoring and automated fertilizing,
 Zone based environment control
 
 Overall System Diagram-
