@@ -15,10 +15,7 @@ github link - https://github.com/HasiraSubhath/Smart-Greenhouses.git
 </br>
 
 Overall Project Description- </br>
-The project aims Utilizes IoT technologies to automate greenhouse task </br>
-Reduce Human labor </br> 
-Ensure healthy production </br>
-Optimize greenhouse management </br>
+Our project focuses on developing a Smart Greenhouse System that leverages IoT, image processing, and machine learning to optimize plant health and crop yield. The system provides real-time monitoring and automated control for plant disease detection, environmental conditions, and soil health management, reducing manual labor and improving efficiency. </br>
 </br></br>
 Overall  Research Problem- </br>
 Real time data monitoring, controlling </br>
@@ -27,7 +24,7 @@ Manual Irrigation control </br>
 Indoor climate control </br>
 Maintain optimal room conditions for plant </br>
 
-Objectives-
+Main Objectives-
 Develop a system for optimized internal and external operations in green house to enhance the efficiency, productivity, and sustainability of greenhouse.
 
 Sub Objectives-
